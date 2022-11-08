@@ -1,6 +1,6 @@
 <h1 align="center"> Trivia Game </h1>
 
-Foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ utilizando _React e Redux_, desenvolvido em grupo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_. 
+Foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(algo similar a um show do milhão)_ utilizando _React e Redux_, desenvolvido em grupo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_. 
 
 A pessoa usuária poderá:
  
